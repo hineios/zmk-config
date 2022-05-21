@@ -1,7 +1,7 @@
 if SHIELD_DACTYL_MANUFORM_4x5_LEFT
 
     config ZMK_KEYBOARD_NAME
-        default "Dactyl Manuform 4x5"
+        default "Dactyl"
 
     config ZMK_SPLIT_BLE_ROLE_CENTRAL
         default y
@@ -10,7 +10,7 @@ endif
 if SHIELD_DACTYL_MANUFORM_4x5_RIGHT
 
     config ZMK_KEYBOARD_NAME
-        default "Dactyl Manuform 4x5 Right"
+        default "Dactyl Right"
 
 endif
 
