@@ -28,8 +28,8 @@
     &kp Z     &kp X    &kp C     &kp V     &kp B           &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH
               &kp LEFT &kp RIGHT                                               &kp UP    &kp DOWN
                                  &kp BSPC  &kp LALT        &kp RET   &kp SPACE
-                                 &kp LCTRL &kp BT_NXT      &kp LGUI  &kp DEL
-                                 &kp DEL   &kp BT_CLR      &kp PG_UP &kp PG_DN
+                                 &kp LCTRL &bt BT_NXT      &kp LGUI  &kp DEL
+                                 &kp DEL   &bt BT_CLR      &kp PG_UP &kp PG_DN
             >;
         };
     };
