@@ -29,7 +29,7 @@
         &kp A  &kp S    &kp D     &kp F     &kp G          &kp H     &kp J     &kp K     &kp L     &kp SEMI
  &mt LSHIFT Z  &kp X    &kp C     &kp V     &kp B          &kp N     &kp M     &kp COMMA &kp DOT   &mt RSHIFT FSLH
                &kp LEFT &kp RIGHT                                              &kp UP    &kp DOWN
-                    &lt RAISE BSPC  &lt RAISE DEL          &lt LOWER RET   &lt RAISE SPACE
+                    &lt RAISE BSPC  &lt LOWER DEL          &lt LOWER RET   &lt RAISE SPACE
                     &kp LCTRL       &kp LGUI               &none           &kp RCTRL
                     &kp LALT        &to NUM                &to NUM         &kp RALT
             >;
